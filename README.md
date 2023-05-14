@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jun Wei Ng. I am an engineer with interest in cybersecurity and AI.
+I am working on the path to protect the security of IoT device.
+
 <!--
 **Abui-JUN/Abui-JUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
